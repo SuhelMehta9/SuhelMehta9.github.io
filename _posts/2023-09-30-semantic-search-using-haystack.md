@@ -1,7 +1,3 @@
-layout: post
-title: "Semantic-Search"
-date: 2023-09-30
-
 # Introduction
 Semantic search is a type of search that goes beyond keyword matching to understand the meaning of the query and the documents being searched. This allows semantic search engines to return more relevant results to users, even if the query does not contain the exact keywords that are present in the documents.
 
