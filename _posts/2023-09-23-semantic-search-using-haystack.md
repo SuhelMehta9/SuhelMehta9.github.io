@@ -1,3 +1,8 @@
+layout: post
+title: "Semantic Search"
+date: 2023-09-23
+categories: CATEGORY-1 CATEGORY-2-
+
 # Introduction
 Semantic search is a type of search that goes beyond keyword matching to understand the meaning of the query and the documents being searched. This allows semantic search engines to return more relevant results to users, even if the query does not contain the exact keywords that are present in the documents.
 
@@ -27,7 +32,7 @@ The overall architecture of haystack is ![](https://raw.githubusercontent.com/de
 For more information you can check their website: https://haystack.deepset.ai/overview/intro
 
 ### Qdrant
-Qdrant is an open-source vector database that is optimized for semantic search. It is a distributed database that can scale to handle large datasets. Qdrant provides a number of features that make it ideal for semantic search, including:
+Qdrant is an open-source vector database that is optimized for semantic search. It is a distributed database that can scale to handle large datasets. Qdrant provides a number of features that make it ideal for semantic search, incl-uding:
 
 * Support for a variety of vector similarity metrics, such as cosine similarity and Euclidean distance.
 * Efficient nearest neighbor search algorithms.
