@@ -1,1 +1,5 @@
-theme: jekyll-theme-hacker
+title: Suhel Mehta
+description: AI Engineer and Big Data Engineer with a passion for building innovative and impactful solutions
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
