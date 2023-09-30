@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# AI Engineer and Big Data Engineer with a passion for building innovative and impactful solutions
 
-You can use the [editor on GitHub](https://github.com/SuhelMehta9/SuhelMehta9.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Suhel Mehta, an AI Engineer and Big Data Engineer with a passion for building innovative and impactful solutions. I have a proven track record of success in developing and implementing AI and big data solutions that solve real-world problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Here are some of my accomplishments:
 
-### Markdown
+- Developed Infosys Real-time Streams, a platform-agnostic solution for low Latency distributed systems for building a real-time pipeline with ML and IoT layers using a visual code-free interface. It was the first Infosys solution to be certified by Horton Works Data Platform ( AWS, Azure, GCP ).
+- Worked on a project to use semantic search using haystack and falcon 7b to improve the efficiency and accuracy of a company's search engine.
+- Worked as a big data engineer at Infosys, optimizing warehouse operations using big data analytics and metadata framework, resulting in significant improvements in efficiency and cost savings.
+- Implemented sites that contain data objects for each site in the framework and orchestrated the workflow for each site using Azure Datafactory.
+- Worked with a beverage client using Databricks (Pyspark) and Azure services to implement a new ETL workflow and enhance the pre-existing ETL framework as per the client's requirement and orchestrated the workflow for each site using Azure Datafactory.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Certifications:
 
-```markdown
-Syntax highlighted code block
+- Databricks Certified Data Engineer Associate
+- Academy Accreditation - Databricks Lakehouse Fundamentals
+- Google Cloud Certified Associate Cloud Engineer
 
-# Header 1
-## Header 2
-### Header 3
+### Experience:
 
-- Bulleted
-- List
+- Google Summer Of Code
+- Mentor at Google Summer Of Code
 
-1. Numbered
-2. List
+I am passionate about using AI and big data to solve real-world problems and make a positive impact on the world. I am also a strong believer in collaboration and teamwork. I am always looking for new opportunities to learn and grow, and I am excited to see what the future holds for AI and big data engineering.
 
-**Bold** and _Italic_ and `Code` text
+Contact information:
 
-[Link](url) and ![Image](src)
-```
+mehtasuhel@gmail.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuhelMehta9/SuhelMehta9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.linkedin.com/in/suhel-mehta/
