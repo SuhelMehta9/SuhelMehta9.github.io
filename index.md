@@ -1,5 +1,3 @@
-# AI Engineer and Big Data Engineer with a passion for building innovative and impactful solutions
-
 Hi, I'm Suhel Mehta, an AI Engineer and Big Data Engineer with a passion for building innovative and impactful solutions. I have a proven track record of success in developing and implementing AI and big data solutions that solve real-world problems.
 
 ## Here are some of my accomplishments:
