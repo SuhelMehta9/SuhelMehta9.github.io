@@ -21,6 +21,17 @@ Hi, I'm Suhel Mehta, an AI Engineer and Big Data Engineer with a passion for bui
 
 I am passionate about using AI and big data to solve real-world problems and make a positive impact on the world. I am also a strong believer in collaboration and teamwork. I am always looking for new opportunities to learn and grow, and I am excited to see what the future holds for AI and big data engineering.
 
+
+# Blogs
+{% for post in site.posts %}
+ 
+<ul>
+ 
+<li><h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3></li>
+ 
+</ul>
+{% endfor %}
+
 Contact information:
 
 mehtasuhel@gmail.com
