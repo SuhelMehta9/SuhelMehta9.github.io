@@ -84,7 +84,7 @@ In this blog I will explain you how you can use this model to summarize the rele
 
 Simple workflow of how every component will be used for semantic search is shown below
 
-![ALt Text](https://gist.githubusercontent.com/SuhelMehta9/9718a27a5cc2e720cf78c32f81b66db5/raw/9a9029e1d4290c5b7f0734d6a756a4a75820351e/workflow.svg)
+![Alt Text](https://gist.github.com/assets/41117419/e47f42d8-558b-4da0-931e-12135ec9b883)
 
 The system works as follows:
 
