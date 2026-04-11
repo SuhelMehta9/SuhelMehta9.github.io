@@ -1,24 +1,37 @@
-Hi, I'm Suhel Mehta, a Technology Lead specializing in Data Engineering and actively expanding my expertise into AI Engineering. With a strong foundation in building high-throughput, real-time data pipelines, I am passionate about developing innovative, impactful solutions, building agentic applications, and solving complex problems with data and AI.
+Hi, I'm Suhel Mehta, a Technology Lead specializing in Data Engineer with 4+ years of experience designing, building, and optimizing **scalable data pipelines**, **ETL workflows**, and **real-time streaming systems**. Strong expertise in **Apache Spark (PySpark)**, **Apache Flink**, **Apache Airflow**, and **SQL**, with hands-on experience in **distributed systems**, **data quality**, **data governance**, and **cloud-based data platforms (Azure)**. Proven ability to build **data infrastructure**, develop **REST-based microservices**, and enable **data-driven decision-making** in production environments.
 
 ## Technical Skillset
 
-- **Languages & Frameworks:** Python3, SQL, PySpark, Apache Flink, LangChain
-- **Data Engineering & Cloud:** Databricks, Azure Data Factory, Eventhub, Kubernetes, Azure Synapse
-- **Tools & Orchestration:** Apache Airflow, Grafana, Git, Linux, Vim, IntelliJ, VSCode
+**Languages:** Python, Java, SQL\
+**Big Data:** Apache Spark (PySpark), Apache Flink, Kafka (familiar)\
+**Data Engineering:** Data Pipelines (Batch & Streaming), ETL, Data Warehousing, Data Lakes, Data Modeling, Data Schemas\
+**Workflow Orchestration:** Apache Airflow\
+**Cloud & Platforms:** Azure (Data Factory, EventHub), Databricks, GCP (familiar)\
+**Databases:** PostgreSQL\
+**APIs & Backend:** PostgREST, REST APIs, Microservices\
+**DevOps & Tools:** Kubernetes, Docker, Git, Linux\
+**Monitoring & Reliability:** Grafana, Logging, Alerting, SLA Management\
+**Other:** Data Quality, Data Validation, Data Governance, Security & Compliance, Distributed Systems
 
 ## Professional Experience
 
 ### Technology Lead | Infosys (Oct 2025 – Present)
-- **Real-time Streaming:** Implemented a high-performance streaming solution using Apache Flink for a leading global sports organization.
-- **High-Throughput Processing:** Designed applications to ingest and process tracking data feeds at 300+ messages per second during live football matches.
-- **Metric Engineering:** Calculated 40+ live statistics from event data feeds, including 15+ core statistics shown globally on live TV and digital platforms.
-- **Operations:** Managed resource allocation and real-time troubleshooting for parallel match data ingestion using Grafana.
-- **Recognition:** Ranked in the top 3% of employees globally for technical excellence and high-impact delivery.
+- Architected and built **scalable real-time data pipelines** using Apache Flink (Java), processing 300+ events/sec with sub-second latency
+- Designed systems for **data ingestion, transformation, and processing** of high-volume streaming datasets (EventHub/Kafka-like systems)
+- Developed **data infrastructure and data schemas** to compute 40+ real-time metrics from 15+ data sources for production analytics
+- Developed **RESTful APIs using PostgREST on PostgreSQL**, enabling backend data access and microservices integration
+- Optimized **pipeline performance, scalability, and resource utilization**, reducing infrastructure cost by 10%
+- Implemented **monitoring, alerting, and reliability practices** using Grafana to ensure high availability and minimal downtime
+- Ensured **data quality, validation, and integrity** across streaming pipelines
 
 ### Technology Analyst & System Engineer | Infosys (Jul 2021 – Sep 2025)
-- **Lakehouse Implementation:** Developed streaming and batch frameworks for a top logistics client's Data Lakehouse projects.
-- **Optimization:** Leveraged big data analytics and metadata frameworks to improve warehouse efficiency and achieve cost savings using PySpark on Azure Synapse.
-- **ETL Workflows:** Enhanced and implemented ETL frameworks for a beverage client using Databricks (PySpark) and Azure services.
+- Designed and implemented **ETL pipelines** for warehouse operations, improving inventory throughput across 10+ distribution centers
+- Built a **metadata-driven data pipeline framework** for ingestion, transformation, and validation
+- Ensured **data quality, governance, and compliance** through validation checks and monitoring
+- Collaborated with stakeholders to translate **business requirements into technical solutions**
+- Developed and maintained **scalable ETL workflows** on Databricks using PySpark for large-scale batch processing
+- Supported **data scientists and analysts** with clean, reliable datasets for decision-making
+- Improved **pipeline efficiency and scalability** through performance tuning and optimization
 
 ## Key Projects & Open Source
 
